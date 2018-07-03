@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: 3a86cd767ad84b4449a3259a6f90dcd6
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: arrow_pack01
+    100002: bow01
+    100004: dagger01_atk
+    100006: dagger01_back
+    100008: dagger01_back_atk
+    100010: SD_boy00_body
+    100012: shield01
+    100014: sword01_atk
+    100016: sword01_back
+    100018: sword01_back_atk
+    100020: //RootNode
+    400000: arrow_pack01
+    400002: bow01
+    400004: dagger01_atk
+    400006: dagger01_back
+    400008: dagger01_back_atk
+    400010: SD_boy00_body
+    400012: shield01
+    400014: sword01_atk
+    400016: sword01_back
+    400018: sword01_back_atk
+    400020: //RootNode
+    2100000: sword01.001
+    2100002: Body_00
+    2100004: sword01
+    2100006: ranger_weapon01
+    2100008: bow01
+    2100010: No Name
+    2300000: arrow_pack01
+    2300002: bow01
+    2300004: dagger01_atk
+    2300006: dagger01_back
+    2300008: dagger01_back_atk
+    2300010: SD_boy00_body
+    2300012: shield01
+    2300014: sword01_atk
+    2300016: sword01_back
+    2300018: sword01_back_atk
+    3300000: arrow_pack01
+    3300002: bow01
+    3300004: dagger01_atk
+    3300006: dagger01_back
+    3300008: dagger01_back_atk
+    3300010: SD_boy00_body
+    3300012: shield01
+    3300014: sword01_atk
+    3300016: sword01_back
+    3300018: sword01_back_atk
+    4300000: sword01_back_atk
+    4300002: sword01_atk
+    4300004: SD_boy00_body
+    4300006: dagger01_back_atk
+    4300008: dagger01_back
+    4300010: arrow_pack01
+    4300012: bow01
+    4300014: dagger01_atk
+    4300016: sword01_back
+    4300018: shield01
+    7400000: sword01_back_atk|arrow_pack01Action
+    7400002: sword01_back_atk|bow01Action
+    7400004: sword01_back_atk|shield01Action
+    7400006: sword01_back_atk|sword01Action
+    7400008: sword01_back_atk|sword01Action.001
+    7400010: sword01_back_atk|sword01Action.002
+    7400012: sword01_back_atk|sword01Action.003
+    7400014: sword01_atk|arrow_pack01Action
+    7400016: sword01_atk|bow01Action
+    7400018: sword01_atk|shield01Action
+    7400020: sword01_atk|sword01Action
+    7400022: sword01_atk|sword01Action.001
+    7400024: sword01_atk|sword01Action.002
+    7400026: sword01_atk|sword01Action.003
+    7400028: dagger01_back_atk|arrow_pack01Action
+    7400030: dagger01_back_atk|bow01Action
+    7400032: dagger01_back_atk|shield01Action
+    7400034: dagger01_back_atk|sword01Action
+    7400036: dagger01_back_atk|sword01Action.001
+    7400038: dagger01_back_atk|sword01Action.002
+    7400040: dagger01_back_atk|sword01Action.003
+    7400042: dagger01_back|arrow_pack01Action
+    7400044: dagger01_back|bow01Action
+    7400046: dagger01_back|shield01Action
+    7400048: dagger01_back|sword01Action
+    7400050: dagger01_back|sword01Action.001
+    7400052: dagger01_back|sword01Action.002
+    7400054: dagger01_back|sword01Action.003
+    7400056: arrow_pack01|arrow_pack01Action
+    7400058: arrow_pack01|bow01Action
+    7400060: arrow_pack01|shield01Action
+    7400062: arrow_pack01|sword01Action
+    7400064: arrow_pack01|sword01Action.001
+    7400066: arrow_pack01|sword01Action.002
+    7400068: arrow_pack01|sword01Action.003
+    7400070: bow01|arrow_pack01Action
+    7400072: bow01|bow01Action
+    7400074: bow01|shield01Action
+    7400076: bow01|sword01Action
+    7400078: bow01|sword01Action.001
+    7400080: bow01|sword01Action.002
+    7400082: bow01|sword01Action.003
+    7400084: dagger01_atk|arrow_pack01Action
+    7400086: dagger01_atk|bow01Action
+    7400088: dagger01_atk|shield01Action
+    7400090: dagger01_atk|sword01Action
+    7400092: dagger01_atk|sword01Action.001
+    7400094: dagger01_atk|sword01Action.002
+    7400096: dagger01_atk|sword01Action.003
+    7400098: sword01_back|arrow_pack01Action
+    7400100: sword01_back|bow01Action
+    7400102: sword01_back|shield01Action
+    7400104: sword01_back|sword01Action
+    7400106: sword01_back|sword01Action.001
+    7400108: sword01_back|sword01Action.002
+    7400110: sword01_back|sword01Action.003
+    7400112: shield01|arrow_pack01Action
+    7400114: shield01|bow01Action
+    7400116: shield01|shield01Action
+    7400118: shield01|sword01Action
+    7400120: shield01|sword01Action.001
+    7400122: shield01|sword01Action.002
+    7400124: shield01|sword01Action.003
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
