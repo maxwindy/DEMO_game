@@ -673,13 +673,13 @@ MonoBehaviour:
   followOnSurface: 1
   selectedPrefabIndex: 0
   prefabPallete:
-  - {fileID: 1844877678526080, guid: d66ed9ac2f766354885fbaa272ee5834, type: 2}
-  - {fileID: 1491962231784884, guid: 3714fce1577e6e14cba26ab6374b275b, type: 2}
-  - {fileID: 1110010550386016, guid: d268c0138f5bef44d8b114beeaa180e9, type: 2}
-  - {fileID: 1413455067643952, guid: a83847ca8d555bb4e9ba717847feec23, type: 2}
-  - {fileID: 1805677463799496, guid: 8ce8dbafa28a4cb46b6800f9a7e33063, type: 2}
-  - {fileID: 1879813381351616, guid: e0a5b2236c38da748b0cbee3c47e4aaf, type: 2}
-  - {fileID: 1180857058224842, guid: 54e289309e0b92e4ab28726b701eca5d, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
 --- !u!1 &306638152
 GameObject:
   m_ObjectHideFlags: 0
@@ -1363,7 +1363,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88fb7ae5fdffaff4c9f8ead4fdc61702, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  guiSkin: {fileID: 11400000, guid: 4ba28f059eca8df448e6d7d030e57edb, type: 2}
+  guiSkin: {fileID: 0}
   coinsCollected: 0
 --- !u!114 &522903157
 MonoBehaviour:
@@ -1420,7 +1420,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.1868512, g: 0.25144172, b: 0.35294116, a: 0.019607844}
+  m_BackGroundColor: {r: 0.59362763, g: 0.8192882, b: 0.8679245, a: 0.4392157}
   m_NormalizedViewPortRect:
     serializedVersion: 2
     x: 0
@@ -1428,7 +1428,7 @@ Camera:
     width: 1
     height: 1
   near clip plane: 0.5
-  far clip plane: 1000
+  far clip plane: 100
   field of view: 60
   orthographic: 0
   orthographic size: 5
@@ -1521,8 +1521,8 @@ MonoBehaviour:
   followOnSurface: 1
   selectedPrefabIndex: 1
   prefabPallete:
-  - {fileID: 1464020768193850, guid: 6128b9c23bce4ab4185fd268c8ad826b, type: 2}
-  - {fileID: 1531252559817340, guid: f8b565dbb4e633842941cde9af7a298d, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
 --- !u!1001 &586134873
 Prefab:
   m_ObjectHideFlags: 0
@@ -1925,11 +1925,11 @@ MonoBehaviour:
   followOnSurface: 1
   selectedPrefabIndex: 0
   prefabPallete:
-  - {fileID: 1029811117172576, guid: bb31d5a9ddc0f6743bc747957d6d432d, type: 2}
-  - {fileID: 1882398399761910, guid: a22891e901a3e0c479f33a5f489c2ab5, type: 2}
-  - {fileID: 1771898438923612, guid: 60958dcb911cd9346babe468d1bec37f, type: 2}
-  - {fileID: 1857286551436996, guid: 3f871828595545f41a71228f6cc340f6, type: 2}
-  - {fileID: 1002675548664152, guid: 85a926525e0c62d449cd48e8db587169, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
 --- !u!1 &870253755
 GameObject:
   m_ObjectHideFlags: 0
@@ -1956,7 +1956,7 @@ Light:
   m_Enabled: 1
   serializedVersion: 8
   m_Type: 1
-  m_Color: {r: 0.990566, g: 0.98549336, b: 0.65881985, a: 1}
+  m_Color: {r: 0.9528302, g: 0.9111461, b: 0.75956744, a: 1}
   m_Intensity: 1
   m_Range: 10
   m_SpotAngle: 30
@@ -2265,13 +2265,13 @@ MonoBehaviour:
   followOnSurface: 1
   selectedPrefabIndex: 3
   prefabPallete:
-  - {fileID: 1553459311543828, guid: 791d41129e96cc04790f3beb0a7af459, type: 2}
-  - {fileID: 1468781319906030, guid: 7a12e3f917bdb89448780bd75691e69d, type: 2}
-  - {fileID: 1114961832357510, guid: e17c4c17f1c6dc74c9f7bb87a502c8bf, type: 2}
-  - {fileID: 1708773231003276, guid: f5d39a49ff4d26543993ef8caa8f7c42, type: 2}
-  - {fileID: 1573692480166514, guid: f06b50c23b0d2d24d98c707088d809d2, type: 2}
-  - {fileID: 1544981131161786, guid: 8cb2fe045c5bfa74e84ed22d0d385258, type: 2}
-  - {fileID: 1132816751945264, guid: eeb105ae356d5a44d89468632f77c0ce, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
 --- !u!1 &1140753094
 GameObject:
   m_ObjectHideFlags: 0
@@ -3703,9 +3703,9 @@ MonoBehaviour:
   followOnSurface: 1
   selectedPrefabIndex: 0
   prefabPallete:
-  - {fileID: 1515862425126706, guid: cec935077b7f8ba4ea43285a8bd59b40, type: 2}
-  - {fileID: 1100890239326732, guid: 65194f4f6d2fa7b499d9426fb9ace010, type: 2}
-  - {fileID: 1084410997571076, guid: f5bd45ce36785ee438611c8122304386, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
 --- !u!1 &1753033774
 GameObject:
   m_ObjectHideFlags: 0
