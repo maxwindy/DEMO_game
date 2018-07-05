@@ -1378,7 +1378,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 1835486879}
-  targetOffset: {x: 0, y: 10, z: -15}
+  targetOffset: {x: 0, y: 14, z: -14}
   lockRotation: 0
   followSpeed: 1e+30
   inputRotationSpeed: 0
