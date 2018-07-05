@@ -321,6 +321,9 @@
      <Compile Include="Assets\JMO Assets\Toony Colors Pro\Scripts\TCP2_PlanarReflection.cs" />
      <Compile Include="Assets\JMO Assets\Toony Colors Pro\Scripts\TCP2_RuntimeUtils.cs" />
      <Compile Include="Assets\JMO Assets\Toony Colors Pro\Scripts\TCP2_ShaderUpdateUnityTime.cs" />
+     <Compile Include="Assets\Snooker\scripts\BoyMoveAndIdle.cs" />
+     <Compile Include="Assets\Snooker\scripts\CameraSwitch.cs" />
+     <Compile Include="Assets\Snooker\scripts\freeBoy.cs" />
      <Compile Include="Assets\SwordAttack.cs" />
      <None Include="Assets\3DGamekit\Art\Shaders\Rock.shader" />
      <None Include="Assets\3DGamekit\Packages\ProCore\Polybrush\README.txt" />
@@ -330,6 +333,7 @@
      <None Include="Assets\3DGamekit\Packages\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
      <None Include="Assets\3DGamekit\Packages\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
      <None Include="Assets\3DGamekit\Art\Shaders\Translucency.shader" />
+     <None Include="Assets\Snooker\Fantasy Skybox FREE\Readme.txt" />
      <None Include="Assets\character_test\assets\Fantasy Skybox FREE\Fog and Ambient reference.txt" />
      <None Include="Assets\CactusPack\Shaders\VertexBlend.shader" />
      <None Include="Assets\3DGamekit\Art\Shaders\SculptedHair.shader" />
@@ -356,6 +360,7 @@
      <None Include="Assets\CactusPack\Readme.txt" />
      <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders PBS\TCP2_Standard PBS.shader" />
      <None Include="Assets\3DGamekit\Art\Shaders\Water.shader" />
+     <None Include="Assets\Snooker\Fantasy Skybox FREE\Fog and Ambient reference.txt" />
      <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders PBS\TCP2_Standard PBS Outline Blended.shader" />
      <None Include="Assets\3DGamekit\Art\Shaders\MirrorWater.shader" />
      <None Include="Assets\JMO Assets\Toony Colors Pro\Shaders PBS\TCP2_Standard PBS Outline Blended (Specular).shader" />
