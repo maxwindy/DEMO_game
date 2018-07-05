@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: 614cd6defe3d14cc6a966b1945966fa6
+timeCreated: 1515128259
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bookcase
+    100002: clock01
+    100004: fireplace
+    100006: guide
+    100008: pic_frame01
+    100010: pic_frame02
+    100012: pic_frame03
+    100014: pic_frame04
+    100016: pic_frame05
+    100018: room01
+    100020: //RootNode
+    100022: side_table01
+    100024: sofa01
+    100026: tree_pot01
+    400000: bookcase
+    400002: clock01
+    400004: fireplace
+    400006: guide
+    400008: pic_frame01
+    400010: pic_frame02
+    400012: pic_frame03
+    400014: pic_frame04
+    400016: pic_frame05
+    400018: //RootNode
+    400020: room01
+    400022: side_table01
+    400024: sofa01
+    400026: tree_pot01
+    2300000: bookcase
+    2300002: clock01
+    2300004: fireplace
+    2300006: guide
+    2300008: pic_frame01
+    2300010: pic_frame02
+    2300012: pic_frame03
+    2300014: pic_frame04
+    2300016: pic_frame05
+    2300018: room01
+    2300020: side_table01
+    2300022: sofa01
+    2300024: tree_pot01
+    3300000: bookcase
+    3300002: clock01
+    3300004: fireplace
+    3300006: guide
+    3300008: pic_frame01
+    3300010: pic_frame02
+    3300012: pic_frame03
+    3300014: pic_frame04
+    3300016: pic_frame05
+    3300018: room01
+    3300020: side_table01
+    3300022: sofa01
+    3300024: tree_pot01
+    4300000: bookcase
+    4300002: fireplace
+    4300004: tree_pot01
+    4300006: pic_frame05
+    4300008: pic_frame04
+    4300010: pic_frame03
+    4300012: pic_frame02
+    4300014: pic_frame01
+    4300016: side_table01
+    4300018: clock01
+    4300020: sofa01
+    4300022: room01
+    4300024: guide
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: bacda73baf55d415cbcefe133453cac7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 3e48b834bbf7c4872a2b08542f1075aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_c_bake
+    second: {fileID: 2100000, guid: a9be85a040fbb4daba8212bf752c2602, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: clock01_bark.001
+    second: {fileID: 2100000, guid: 5a230165d624446a89e6ccc3c73e96d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fireplace_bake
+    second: {fileID: 2100000, guid: 6992b7360ae36451185aa9a214c20aaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: picture_frame01
+    second: {fileID: 2100000, guid: f053856f05eeb4640a319c59cce86d6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: room01_test
+    second: {fileID: 2100000, guid: 76df1facb5279452bbf6fbe4cebc3581, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: side_table01_bake
+    second: {fileID: 2100000, guid: 10ee5b84f3acf4fd28775bd268da1f24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sofa01
+    second: {fileID: 2100000, guid: ba95c4fb8a15343bbb0f3caf2c594b1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tree_pot01.001
+    second: {fileID: 2100000, guid: 190808d74a48a4bbc9794f41d3092c45, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
