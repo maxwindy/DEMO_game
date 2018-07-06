@@ -1297,7 +1297,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 1835486879}
-  targetOffset: {x: 0, y: 14, z: -14}
+  targetOffset: {x: 0, y: 35, z: -35}
   lockRotation: 0
   followSpeed: 1e+30
   inputRotationSpeed: 0
@@ -1339,7 +1339,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.59362763, g: 0.8192882, b: 0.8679245, a: 0.4392157}
+  m_BackGroundColor: {r: 0.5562478, g: 0.83130217, b: 0.9433962, a: 0.4392157}
   m_NormalizedViewPortRect:
     serializedVersion: 2
     x: 0
@@ -1348,7 +1348,7 @@ Camera:
     height: 1
   near clip plane: 0.5
   far clip plane: 100
-  field of view: 60
+  field of view: 25
   orthographic: 0
   orthographic size: 5
   m_Depth: 1
@@ -1740,8 +1740,8 @@ Light:
   m_Enabled: 1
   serializedVersion: 8
   m_Type: 1
-  m_Color: {r: 0.9528302, g: 0.9111461, b: 0.75956744, a: 1}
-  m_Intensity: 1
+  m_Color: {r: 0.7028302, g: 0.8758232, b: 1, a: 1}
+  m_Intensity: 1.2
   m_Range: 10
   m_SpotAngle: 30
   m_CookieSize: 10
@@ -1764,7 +1764,7 @@ Light:
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
-  m_UseColorTemperature: 0
+  m_UseColorTemperature: 1
   m_ShadowRadius: 0
   m_ShadowAngle: 0
 --- !u!4 &870253757

@@ -3,6 +3,48 @@ guid: b33d215b505dbf74fb4b2aedbc5b53c6
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
+    100000: armL
+    100002: armR
+    100004: bone_ducky
+    100006: Cylinder
+    100008: //RootNode
+    100010: handL
+    100012: handR
+    100014: head
+    100016: hip
+    100018: neck
+    100020: root
+    100022: shoulderL
+    100024: shoulderR
+    100026: spine01
+    100028: tail01
+    100030: tail02
+    100032: upperarmL
+    100034: upperarmR
+    400000: armL
+    400002: armR
+    400004: bone_ducky
+    400006: Cylinder
+    400008: //RootNode
+    400010: handL
+    400012: handR
+    400014: head
+    400016: hip
+    400018: neck
+    400020: root
+    400022: shoulderL
+    400024: shoulderR
+    400026: spine01
+    400028: tail01
+    400030: tail02
+    400032: upperarmL
+    400034: upperarmR
+    2100000: None__docky_body_png
+    4300000: Cylinder
+    7400000: Default Take
+    7400002: bone_duckyAction
+    9500000: //RootNode
+    13700000: Cylinder
     2186277476908879412: ImportLogs
   externalObjects: {}
   materials:

@@ -3,6 +3,61 @@ guid: b9d46b12128dcd342b2d3bda24a314ab
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
+    100000: arm01_L
+    100002: arm01_R
+    100004: arm02_L
+    100006: arm02_R
+    100008: Armature
+    100010: armIK_L
+    100012: armIK_R
+    100014: body01
+    100016: body02
+    100018: core
+    100020: head
+    100022: leg01_L
+    100024: leg01_R
+    100026: leg02_L
+    100028: leg02_R
+    100030: leg03_L
+    100032: leg03_R
+    100034: root
+    100036: shoulder_L
+    100038: shoulder_R
+    100040: //RootNode
+    100042: woon_core
+    100044: woon_green
+    400000: arm01_L
+    400002: arm01_R
+    400004: arm02_L
+    400006: arm02_R
+    400008: Armature
+    400010: armIK_L
+    400012: armIK_R
+    400014: body01
+    400016: body02
+    400018: core
+    400020: head
+    400022: leg01_L
+    400024: leg01_R
+    400026: leg02_L
+    400028: leg02_R
+    400030: leg03_L
+    400032: leg03_R
+    400034: root
+    400036: shoulder_L
+    400038: shoulder_R
+    400040: //RootNode
+    400042: woon_core
+    400044: woon_green
+    2100000: woon_core__woon_green_png
+    2100002: woon_green__woon_green_png
+    4300000: woon_core
+    4300002: woon_green
+    7400000: Default Take
+    7400002: ArmatureAction
+    9500000: //RootNode
+    13700000: woon_core
+    13700002: woon_green
     2186277476908879412: ImportLogs
   externalObjects: {}
   materials:

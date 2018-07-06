@@ -3,6 +3,50 @@ guid: 6360cab264670da45828a4b5daa54e2c
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
+    100000: bone_fangy
+    100002: chest
+    100004: //RootNode
+    100006: forearm_L
+    100008: forearm_R
+    100010: group_Default
+    100012: head
+    100014: hips
+    100016: metarig
+    100018: neck
+    100020: shin_L
+    100022: shin_R
+    100024: shoulder_L
+    100026: shoulder_R
+    100028: spine
+    100030: thigh_L
+    100032: thigh_R
+    100034: upper_arm_L
+    100036: upper_arm_R
+    400000: bone_fangy
+    400002: chest
+    400004: //RootNode
+    400006: forearm_L
+    400008: forearm_R
+    400010: group_Default
+    400012: head
+    400014: hips
+    400016: metarig
+    400018: neck
+    400020: shin_L
+    400022: shin_R
+    400024: shoulder_L
+    400026: shoulder_R
+    400028: spine
+    400030: thigh_L
+    400032: thigh_R
+    400034: upper_arm_L
+    400036: upper_arm_R
+    2100000: Default__map_fangy
+    4300000: group_Default
+    7400000: Default Take
+    7400002: metarigAction
+    9500000: //RootNode
+    13700000: group_Default
     2186277476908879412: ImportLogs
   externalObjects: {}
   materials:
