@@ -16,7 +16,11 @@ public class SwordAttack : MonoBehaviour {
 	void OnTriggerEnter(Collider other)
 	{
 		// like in java  use other class and use method in that class
-		other.gameObject.GetComponent<HpMonster>().TakeDamage(damage);
+		if(other.gameObject.GetComponent<HpDooky>())
+			other.gameObject.GetComponent<HpDooky>().TakeDamage(damage);
+		else
+			other.gameObject.GetComponent<HpMonster>().TakeDamage(damage);
+		
 
 		
 	}

@@ -21,6 +21,7 @@ GameObject:
   - component: {fileID: 4594065702658718}
   - component: {fileID: 198379415181108294}
   - component: {fileID: 199701812327508286}
+  - component: {fileID: 95783308807344502}
   m_Layer: 0
   m_Name: woonDeadEffect1
   m_TagString: Untagged
@@ -41,6 +42,24 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
+--- !u!95 &95783308807344502
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1842040172761976}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 72e388e70718ce046a6ab9573fa62304, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!198 &198379415181108294
 ParticleSystem:
   m_ObjectHideFlags: 1
