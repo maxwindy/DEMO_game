@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: 93e70151dce4f483ca94bf686bfab2e6
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bottle01
+    100002: bottle01_2
+    100004: bottle02
+    100006: bottle02_2
+    100008: bottle03
+    100010: bottle03_2
+    100012: candle01
+    100014: chandelier01
+    100016: cup02
+    100018: ground
+    100020: guild_chair01
+    100022: guild_couter01
+    100024: guild_couter02
+    100026: guild_couter03
+    100028: guild_table01
+    100030: jur01
+    100032: lame01
+    100034: lame01_glass
+    100036: pilar01_1
+    100038: pilar01_2
+    100040: //RootNode
+    100042: shelves01
+    100044: top
+    100046: wall01_wood
+    100048: wall02_con
+    400000: bottle01
+    400002: bottle01_2
+    400004: bottle02
+    400006: bottle02_2
+    400008: bottle03
+    400010: bottle03_2
+    400012: candle01
+    400014: chandelier01
+    400016: cup02
+    400018: ground
+    400020: guild_chair01
+    400022: guild_couter01
+    400024: guild_couter02
+    400026: guild_couter03
+    400028: guild_table01
+    400030: jur01
+    400032: lame01
+    400034: lame01_glass
+    400036: pilar01_1
+    400038: pilar01_2
+    400040: //RootNode
+    400042: shelves01
+    400044: top
+    400046: wall01_wood
+    400048: wall02_con
+    2100000: guild_object02
+    2100002: wall_wood02
+    2100004: wall_wood01
+    2100006: wall_texture01
+    2100008: guild_object01
+    2100010: No Name
+    2300000: bottle01
+    2300002: bottle01_2
+    2300004: bottle02
+    2300006: bottle02_2
+    2300008: bottle03
+    2300010: bottle03_2
+    2300012: candle01
+    2300014: chandelier01
+    2300016: cup02
+    2300018: ground
+    2300020: guild_chair01
+    2300022: guild_couter01
+    2300024: guild_couter02
+    2300026: guild_couter03
+    2300028: guild_table01
+    2300030: jur01
+    2300032: lame01
+    2300034: lame01_glass
+    2300036: pilar01_1
+    2300038: pilar01_2
+    2300040: shelves01
+    2300042: top
+    2300044: wall01_wood
+    2300046: wall02_con
+    3300000: bottle01
+    3300002: bottle01_2
+    3300004: bottle02
+    3300006: bottle02_2
+    3300008: bottle03
+    3300010: bottle03_2
+    3300012: candle01
+    3300014: chandelier01
+    3300016: cup02
+    3300018: ground
+    3300020: guild_chair01
+    3300022: guild_couter01
+    3300024: guild_couter02
+    3300026: guild_couter03
+    3300028: guild_table01
+    3300030: jur01
+    3300032: lame01
+    3300034: lame01_glass
+    3300036: pilar01_1
+    3300038: pilar01_2
+    3300040: shelves01
+    3300042: top
+    3300044: wall01_wood
+    3300046: wall02_con
+    4300000: bottle03_2
+    4300002: bottle02_2
+    4300004: bottle01_2
+    4300006: guild_chair01
+    4300008: guild_table01
+    4300010: guild_couter03
+    4300012: guild_couter02
+    4300014: pilar01_2
+    4300016: wall02_con
+    4300018: chandelier01
+    4300020: candle01
+    4300022: jur01
+    4300024: lame01_glass
+    4300026: lame01
+    4300028: bottle03
+    4300030: bottle02
+    4300032: bottle01
+    4300034: shelves01
+    4300036: guild_couter01
+    4300038: pilar01_1
+    4300040: top
+    4300042: ground
+    4300044: wall01_wood
+    4300046: cup02
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
